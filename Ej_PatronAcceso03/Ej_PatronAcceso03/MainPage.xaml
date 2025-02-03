@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ej_PatronAcceso03.MainPage"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms">
+    <Grid HorizontalOptions="Center" VerticalOptions="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Text="Muestra de SkiSharp para dibujar" 
+               HorizontalOptions="Center" 
+               Padding="10" 
+               Grid.Row="0"/>
+        <!--Para usar el Touch se debe activar con EnableTouchEvents-->
+        <skia:SKCanvasView x:Name="CanvasView"
+                           PaintSurface="OnCanvasViewPaintSurface"
+                           Touch="OnCanvasTouch"
+                           EnableTouchEvents="True"
+                           Grid.Row="1"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center"
+                           HeightRequest="300"
+                           WidthRequest="300"/>
+    </Grid>
+</ContentPage>

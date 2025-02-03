@@ -1,0 +1,15 @@
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\bin\Debug\netstandard2.0\Ej_PatronAcceso03.deps.json
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\bin\Debug\netstandard2.0\Ej_PatronAcceso03.dll
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\bin\Debug\netstandard2.0\ref\Ej_PatronAcceso03.dll
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\bin\Debug\netstandard2.0\Ej_PatronAcceso03.pdb
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\Ej_PatronAcceso03.csproj.AssemblyReference.cache
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\Ej_PatronAcceso03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\Ej_PatronAcceso03.AssemblyInfoInputs.cache
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\Ej_PatronAcceso03.AssemblyInfo.cs
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\Ej_PatronAcceso03.csproj.CoreCompileInputs.cache
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\Ej_PatronAcceso03.dll
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\refint\Ej_PatronAcceso03.dll
+C:\Users\JHON1\source\repos\Ej_PatronAcceso03\Ej_PatronAcceso03\Ej_PatronAcceso03\obj\Debug\netstandard2.0\Ej_PatronAcceso03.pdb
