@@ -10,7 +10,7 @@
         </Grid.RowDefinitions>
         <Label Text="Muestra de SkiSharp para dibujar" 
                HorizontalOptions="Center" 
-               Padding="10" 
+               Padding="10" TextColor="Blue" 
                Grid.Row="0"/>
         <!--Para usar el Touch se debe activar con EnableTouchEvents-->
         <skia:SKCanvasView x:Name="CanvasView"
