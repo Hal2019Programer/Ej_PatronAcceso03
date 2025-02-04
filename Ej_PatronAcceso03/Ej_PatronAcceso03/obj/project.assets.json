@@ -913,23 +913,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JHON1\\.nuget\\packages\\": {},
+    "C:\\Users\\JHON\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JHON1\\source\\repos\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03.csproj",
+      "projectUniqueName": "D:\\VS2024\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03.csproj",
       "projectName": "Ej_PatronAcceso03",
-      "projectPath": "C:\\Users\\JHON1\\source\\repos\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03.csproj",
-      "packagesPath": "C:\\Users\\JHON1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JHON1\\source\\repos\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\obj\\",
+      "projectPath": "D:\\VS2024\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03.csproj",
+      "packagesPath": "C:\\Users\\JHON\\.nuget\\packages\\",
+      "outputPath": "D:\\VS2024\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\JHON1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JHON\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

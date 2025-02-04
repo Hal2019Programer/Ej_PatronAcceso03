@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ej_PatronAcceso03": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "NABLE_XAML_DIAGNOSTICS_SOURCE_INFO": "1"
+      }
+    }
+  }
+}
