@@ -51,21 +51,9 @@
               "target": "Package",
               "version": "[2.88.9, )"
             },
-            "SkiaSharp.Views.Forms": {
-              "target": "Package",
-              "version": "[2.88.9, )"
-            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.7.0, )"
-            },
-            "Xamarin.Essentials": {
-              "target": "Package",
-              "version": "[1.7.0, )"
-            },
-            "Xamarin.Forms": {
-              "target": "Package",
-              "version": "[5.0.0.2196, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
