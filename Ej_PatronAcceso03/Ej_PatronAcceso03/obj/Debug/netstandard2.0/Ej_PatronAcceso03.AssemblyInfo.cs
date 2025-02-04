@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ej_PatronAcceso03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efa3ad391165532f17bd9e291bd51fb18118d834")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de004f49aee1132ee99b9309009f7be7659d74e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ej_PatronAcceso03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ej_PatronAcceso03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
