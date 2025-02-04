@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{406D4159-F1DC-4B05-ABCA-E2806CFBC409}|Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03.csproj|c:\\users\\jhon1\\source\\repos\\ej_patronacceso03\\ej_patronacceso03\\ej_patronacceso03\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{406D4159-F1DC-4B05-ABCA-E2806CFBC409}|Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03.csproj|solutionrelative:ej_patronacceso03\\ej_patronacceso03\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{406D4159-F1DC-4B05-ABCA-E2806CFBC409}|Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03.csproj|c:\\users\\jhon1\\source\\repos\\ej_patronacceso03\\ej_patronacceso03\\ej_patronacceso03\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{406D4159-F1DC-4B05-ABCA-E2806CFBC409}|Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03.csproj|solutionrelative:ej_patronacceso03\\ej_patronacceso03\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +30,7 @@
               "RelativeToolTip": "Ej_PatronAcceso03\\Ej_PatronAcceso03\\MainPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-03T01:09:42.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\JHON1\\source\\repos\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Ej_PatronAcceso03\\Ej_PatronAcceso03\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\JHON1\\source\\repos\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\Ej_PatronAcceso03\\MainPage.xaml.cs",
-              "RelativeToolTip": "Ej_PatronAcceso03\\Ej_PatronAcceso03\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T01:09:40.074Z",
+              "WhenOpened": "2025-02-03T01:29:19.667Z",
               "EditorCaption": ""
             }
           ]
