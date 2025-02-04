@@ -97,4 +97,8 @@
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <PropertyGroup>
+  <XamlDebuggingInformation>true</XamlDebuggingInformation>
+  <DisableXbfLineInfo>false</DisableXbfLineInfo>
+  </PropertyGroup>
 </Project>
